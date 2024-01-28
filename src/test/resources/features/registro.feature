@@ -1,2 +1,2 @@
 Feature: Funcionalidad del registro
-  Scenario: Registro cliente
+  Scenario: Registro cliente por ahora
