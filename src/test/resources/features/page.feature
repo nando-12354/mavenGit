@@ -1,2 +1,2 @@
-Feature: Funcionalidad de la paginagit status
+Feature: Funcionalidad de la pagina v2
   
