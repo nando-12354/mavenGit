@@ -1,2 +1,2 @@
-Feature: Funcionalidad de la pagina v2
+Feature: Funcionalidad de la pagina v pagina
   
